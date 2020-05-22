@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'wellbeingbot'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6f473622b2704ceb86cd56a91ae6a103 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7d797121967c45319534fe741c9d5ffc }}
